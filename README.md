@@ -37,4 +37,4 @@ https://github.com/upost/MoneroMiner
 # Donate:
 Paypal: https://paypal.me/ElijaxApps
 # Bitcoin:
-Address: bc1q4u4pfpl992xfzzka7hvvvgm3ga34dzdmtr5jcx
+Address: bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
